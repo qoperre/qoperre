@@ -15,8 +15,8 @@
 <br/>
 
 ### Library
-<!--PyTorch, Selenium-->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<!--PyTorch, Selenium, OpenCV-->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-#5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 <br/>
 
 ### Framework
