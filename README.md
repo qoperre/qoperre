@@ -1,4 +1,4 @@
-<img width="606" height="664" alt="image" src="https://github.com/user-attachments/assets/940c7df9-71d8-427d-bea1-cd9269704762" /><!--Header-->
+<!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Metry's%20Achive&stroke=b678c4&strokeWidth=1&color=0:8871e5,100:b678c4)
 
 ## 👀 About Me 
