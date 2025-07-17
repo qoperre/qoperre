@@ -7,16 +7,12 @@
 
 ## 🧱 Tech Stack
 ### Language
-<!--Python, JS, HTML, CSS-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<!--Python, C, C++, Rust, Ruby-->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<!--JS, HTML, CSS-->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
-
-
-
-
-
 <br/>
 
 ### Library
@@ -39,7 +35,8 @@
 
 ## 🤔 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoperre)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoperre)](https://github.com/anuraghazra/github-readme-stats)
+   
 
 
 
