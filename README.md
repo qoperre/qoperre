@@ -1,19 +1,45 @@
-<div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=Metry's%20Achive&stroke=b678c4&strokeWidth=1&color=0:8871e5,100:b678c4)
+<!--Header-->
+![header](https://capsule-render.vercel.app/api?type=venom&text=Metry's%20Achive&stroke=b678c4&strokeWidth=1&color=0:8871e5,100:b678c4)
 
-</div>
+## 👀 About Me 
+#### :raising_hand: I am a Science High-school student from South Korea.<br>
+#### :fire: I aim to study Neuroengineering.<br>
 
-<div>
-  <!--Body-->
-  ## 👀 About Me
-  #### :raising_hand: I am a Science High-school student from South Korea.<br/>
-  #### :fire: I aim to study Neuroengineering.<br/>
+## 🧱 Tech Stack
+### Language
+<!--Python, JS, HTML, CSS-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoperre)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+<br/>
+
+### Library
+<!--PyTorch, Selenium-->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<br/>
+
+### Framework
+<!--Flask, Django, React-->
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+<br/>
+
+### ETC
+<!--Slack, MySQL-->
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<br/>
+<br/>
+
+
+## 🤔 Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoperre)](https://github.com/anuraghazra/github-readme-stats)
  
-</div>
 
 
 
